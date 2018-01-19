@@ -1,9 +1,21 @@
-.column {
+.column-1 {
   width: 300px;
   float: left;
+  background-color: blue;
+}
+
+.column-2 {
+  width: 300px;
+  float: left;
+  background-color: green;
+}
+
+.column-3 {
+  width: 300px;
+  float: left;
+  background-color: yellow;
 }
 
 div img {
   width: 300px;
-  
 }
